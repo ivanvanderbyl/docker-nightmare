@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "author": "Ivan Vanderbyl",
   "dependencies": {
-    "nightmare": "^2.9.1"
+    "nightmare": "^3.0.1"
   },
   "license": "MIT",
   "private": true

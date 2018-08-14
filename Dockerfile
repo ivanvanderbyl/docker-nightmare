@@ -39,7 +39,6 @@ WORKDIR /workspace
 RUN mkdir ./tmp
 
 ADD package.json .
-ADD yarn.lock .
 
 RUN yarn install
 
